@@ -6,5 +6,3 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | Masamune | CentOS 7 | DHCP server | Provide IP address for other machines | 192.168.122.118 | - |
 | 2 | Aria | CentOS 7 | IPAM server | Provide web service for IPAM via browser | 192.168.122.147 | aria OR 192.168.122.147 |
-| 3 | Byron | CentOS 7 | PXE server | Provide OS image installation for other machines | - | - |
-| 4 | Filene | CentOS 7 | Utilities server | Provide GUI and interactions with GUI-required applications | - | - |
